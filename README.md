@@ -1,4 +1,4 @@
-[![MasterHead]([https://images.hdqwalls.com/download/landscape-sunset-minimal-4k-2y-2932x2932.jpg](https://c4.wallpaperflare.com/wallpaper/276/485/258/moon-forest-sky-trees-landscape-hd-wallpaper-preview.jpg))](www.github.com/Butovens)
+[![MasterHead](https://i.pinimg.com/736x/cf/da/3c/cfda3c9030bc6706e4c3509582e19526.jpg)](www.github.com/Butovens)
 
 ### Hi there 👋. 
 ##### I'm a PhD in cognitive neuroscience passionate about applying computational and behavioral approaches to improve human condition and expand human-computer interaction capabilities! 🔭 I’m currently working on some deep-learning based EEG signal classification. 💬 Ask me about Neuroscience & Human cognition! 
