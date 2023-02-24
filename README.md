@@ -1,6 +1,5 @@
-<p align="center">
 [![MasterHead](https://i.pinimg.com/736x/cf/da/3c/cfda3c9030bc6706e4c3509582e19526.jpg)](www.github.com/Butovens)
-</p>
+
 
 ### Hi there 👋. 
 ##### I'm a PhD in cognitive neuroscience passionate about applying computational and behavioral approaches to improve human condition and expand human-computer interaction capabilities! 🔭 I’m currently working on some deep-learning based EEG signal classification. 💬 Ask me about Neuroscience & Human cognition! 
