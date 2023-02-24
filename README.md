@@ -6,7 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=Butovens)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Butovens&show_icons=true&theme=radical&hide=stars,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Butovens&hide_progress=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Butovens&hide_progress=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
