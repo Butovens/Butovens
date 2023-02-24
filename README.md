@@ -1,4 +1,5 @@
-### Hi there 👋. I'm a PhD in cognitive neuroscience passionate about applying computational and behavioral approaches to improve human condition and expand human-computer interaction capabilities! 🔭 I’m currently working on some deep-learning based EEG signal classification. 💬 Ask me about Neuroscience & Human cognition! [image](https://user-images.githubusercontent.com/11080354/221096633-1419e061-1b25-4a74-b468-d64b7e6a76b0.png)
+### Hi there 👋. 
+##### I'm a PhD in cognitive neuroscience passionate about applying computational and behavioral approaches to improve human condition and expand human-computer interaction capabilities! 🔭 I’m currently working on some deep-learning based EEG signal classification. 💬 Ask me about Neuroscience & Human cognition! 
 
 
 <!--
