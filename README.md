@@ -2,7 +2,7 @@
 
 
 ### Hi there 👋. 
-##### I am a dedicated cognitive neuroscience researcher with a passion for utilizing computational and behavioral approaches to enhance the human condition and extend the capabilities of human-computer interaction! Currently, my focus lies in the realm of deep-learning-based EEG signal classification. 💬 Feel free to ask me anything about Neuroscience and Human Cognition! 🔭
+##### I am a dedicated cognitive neuroscience researcher with a passion for utilizing computational and behavioral approaches to enhance the human condition and extend the capabilities of human-computer interaction! 💬 Feel free to ask me anything about Neuroscience and Human Cognition! 🔭
 
 ![](https://komarev.com/ghpvc/?username=Butovens)
 
